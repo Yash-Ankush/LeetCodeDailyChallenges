@@ -20,10 +20,12 @@ This repository contains my solutions, approaches, and learnings as I sharpen my
 
 ## 📈 Progress Tracker  
 
-| Date       | Problem                                                            | Difficulty | Language | Notes                                      |
-|------------|--------------------------------------------------------------------|------------|----------|--------------------------------------------|
-| 2025-02-06 | [Two Sum](Easy/two_sum.py)                                        | Easy       | Python   | Used HashMap for O(n) time complexity     |
-| 2025-02-07 | [Longest Substring Without Repeating Characters](Medium/longest_substring.cpp) | Medium     | C++      | Optimized using sliding window           |
+| Date       | Problem No. | Problem                                                          | Difficulty | Language | LeetCode Link | Solution Link |
+|------------|------------|------------------------------------------------------------------|------------|----------|---------------|---------------|
+| 2025-02-01 | 3151       | Special Array I                                                | Easy       | C++      | [🔗 Link](https://leetcode.com/problems/special-array-i/description/) | [📜 Code](Easy/special_Array_1.cpp) |
+| 2025-02-02 | 3          | Longest Substring Without Repeating Characters                 | Medium     | C++      | [🔗 Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [📜 Code](Medium/longest_substring.cpp) |
+
+
 
 ---
 
