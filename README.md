@@ -12,3 +12,17 @@ A dedicated space to track my journey of solving LeetCode problems daily! 🚀 T
 Consistency is key! Let’s grow together as coding enthusiasts. 🌱
 
 "Stay curious, keep coding!" 💻✨
+
+
+---
+
+## 📈 Progress Tracker  
+
+| Date | Problem | Difficulty | Language | Notes |
+|------|---------|------------|----------|--------|
+| 2025-02-06 | Two Sum | Easy | Python | Used HashMap for O(n) time complexity |
+| 2025-02-07 | Longest Substring Without Repeating Characters | Medium | C++ | Optimized using sliding window |
+
+_Consistency is key! Let’s grow together as coding enthusiasts._ 🌱  
+
+📌 **Stay curious, keep coding!** 💻✨  
