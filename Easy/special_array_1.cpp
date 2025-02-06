@@ -1,4 +1,4 @@
-class Solution {
+special_array_1.cppclass Solution {
 public:
     bool isArraySpecial(vector<int>& nums) {
         for(int i=1; i<nums.size(); i++){
