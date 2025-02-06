@@ -22,8 +22,8 @@ This repository contains my solutions, approaches, and learnings as I sharpen my
 
 | Date       | Problem No. | Problem                                                          | Difficulty | Language | LeetCode Link | Solution Link |
 |------------|------------|------------------------------------------------------------------|------------|----------|---------------|---------------|
-| 2025-02-01 | 3151       | Special Array I                                                | Easy       | C++      | [🔗 Link](https://leetcode.com/problems/special-array-i/description/) | [📜 Code](Easy/special_Array_1.cpp) |
-| 2025-02-02 | 3          | Longest Substring Without Repeating Characters                 | Medium     | C++      | [🔗 Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [📜 Code](Medium/longest_substring.cpp) |
+| 01-02-2025 | 3151       | Special Array I                                                | Easy       | C++      | [🔗 Link](https://leetcode.com/problems/special-array-i/description/) | [📜 Code](Easy/special_Array_1.cpp) |
+| 02-02-2025 | 3          | Longest Substring Without Repeating Characters                 | Medium     | C++      | [🔗 Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [📜 Code](Medium/longest_substring.cpp) |
 
 
 
