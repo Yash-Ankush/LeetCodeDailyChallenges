@@ -30,4 +30,4 @@ This repository contains my solutions, approaches, and learnings as I sharpen my
 | 04-02-2025 | 1800        | Maximum Ascending Subarray Sum                                   | Easy       | C++      | [🔗 Link](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [📜 Code](Easy/maximum_ascending_subarray_sum.cpp) |
 | 05-02-2025 | 1790        | Check if One String Swap Can Make Strings Equal                  | Easy       | C++      | [🔗 Link](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [📜 Code](Easy/check_if_one_string_swap_can_make_strings_equal.cpp) |
 | 06-02-2025 | 1726        | Tuple with Same Product                                          | Medium       | C++      | [🔗 Link](https://leetcode.com/problems/tuple-with-same-product/) | [📜 Code](Medium/tuple_with_same_product.cpp) |
-
+| 06-02-2025 | 1726        | Find the Number of Distinct Colors Among the Balls               | Medium       | C++      | [🔗 Link](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | [📜 Code](Medium/distinct_colors_among_balls.cpp) |
