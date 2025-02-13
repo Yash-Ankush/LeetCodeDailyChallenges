@@ -9,6 +9,7 @@ public:
             if(nums[i-1] > nums[i])
                 count++;
          }
+        //sorted
          if(nums[n-1] > nums[0])
             count++;
         
