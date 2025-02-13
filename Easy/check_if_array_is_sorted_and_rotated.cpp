@@ -1,4 +1,4 @@
-// code
+// code rotated and sorted
 class Solution {
 public:
     bool check(vector<int>& nums) {
